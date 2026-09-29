@@ -468,3 +468,4 @@ Crystal Gun
 CrystalGun 1908
 conformation
 YanBoyMacc
+NovakVA
